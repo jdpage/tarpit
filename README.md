@@ -1,7 +1,7 @@
 Tarpit is a rather naive brainf\*\*\* compiler for Linux. It produces a 32-bit
 x86 ELF-formatted executable given a valid brainf\*\*\* program.
 
-Usage: tarpit <source> [<output>]
+Usage: tarpit \<source\> [\<output\>]
 
 ### Compiling
 
